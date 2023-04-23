@@ -1,3 +1,5 @@
 scikit-learn
 pandas
-fugue[spark]
+fugue[spark, dask]
+nltk
+requests
