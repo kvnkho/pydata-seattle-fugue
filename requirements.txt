@@ -3,3 +3,6 @@ pandas
 fugue[spark, dask]
 nltk
 requests
+fugue-jupyter
+seaborn
+numpy
