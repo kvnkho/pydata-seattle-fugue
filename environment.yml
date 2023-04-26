@@ -8,7 +8,7 @@ dependencies:
   - python=3.8
   - openjdk=11.0.12 
   - pip 
-  pip:
+  - pip:
     - scikit-learn
     - pandas
     - fugue[spark, dask]
