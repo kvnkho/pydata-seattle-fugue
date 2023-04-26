@@ -1,0 +1,22 @@
+name: my-environment
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - openjdk=11.0.12  
+
+pip:
+  - scikit-learn
+  - pandas
+  - fugue[spark, dask]
+  - nltk
+  - requests
+  - fugue-jupyter
+  - seaborn
+  - numpy
+  - statsforecast
+  - pandera
+  - polars
