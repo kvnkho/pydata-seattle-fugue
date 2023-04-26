@@ -12,7 +12,7 @@ This covers:
 * Fugue API
 * Future Fugue Roadmap
 
-To install on Noteable
+Each cell has a command to install on Noteable. You don't need to run this on local.
 ```python
 _=!mamba install -y openjdk
 _=!pip install -r ../requirements.txt
